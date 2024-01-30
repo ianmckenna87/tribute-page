@@ -1,0 +1,39 @@
+
+html{font-size:16px;
+    background:red;
+    }
+    main{
+      width:90%;
+      margin:auto;
+    }
+    
+    *{
+    font-family: fantasy, serif;
+    font-weight: normal;
+    
+    }
+    
+    img{
+      max-width:100%;
+      max-height:auto;
+      display:block;
+    }
+    
+    figcaption{
+     color:silver; padding-top:16px;
+      text-align: center;
+    }
+    
+    h1{
+    padding-top:32px;
+    text-align:center;  font-size:4rem;
+    color:WhiteSmoke;
+    }
+    
+    figure{
+    
+      width:50%;
+      margin:auto;
+      padding:16;
+    }
+    
